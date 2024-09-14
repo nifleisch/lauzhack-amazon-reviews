@@ -1,0 +1,12 @@
+dash==2.18.0
+dash-bootstrap-components==1.6.0
+Flask==3.0.3
+numpy==2.1.1
+matplotlib==3.9.2
+pandas==2.2.2
+plotly==5.24.0
+seaborn==0.13.2
+scikit-learn==1.5.1
+openai==1.44.0
+openTSNE==1.0.2
+python-dotenv==1.0.1
