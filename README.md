@@ -2,9 +2,7 @@
 
 This repository contains the code for a project completed during the 24-hour [Lauzhack 2023](https://lauzhack-2023.devpost.com), which I worked on together with [Lennard Schaub](https://github.com/try1233). We chose to take on Amazon's challenge: analyzing a dataset of phone reviews to provide valuable insights for vendors selling these phones. We updated the code after the hackathon to make use of new LLM-models and techniques.
 
-This was my first hackathon, and it was a truly great experience. We even made it to the final round of the overall competition and, in a completely sleep-deprived state, had the honor of presenting in front of a large lecture hall filled with other participants (see the image below).
-
-![presenting](assets/presentation.JPG)
+This was my first hackathon, and it was a truly great experience. We even made it to the final round of the overall competition and, in a completely sleep-deprived state, had the honor of presenting in front of a large lecture hall filled with other participants.
 
 ## Solution Overview
 
